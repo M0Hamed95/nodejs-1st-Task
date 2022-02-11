@@ -1,0 +1,17 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js --help",
+    "start": "node server.js"
+  },
+  "author": "Mohamed Hamed",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "yargs": "^17.3.1"
+  },
+  "keywords": [],
+  "description": ""
+}
